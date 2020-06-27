@@ -7,17 +7,17 @@ Reference: [Introduction to SwiftUI](https://developer.apple.com/videos/play/wwd
 ## Resources
 
 `Sandwich.swift`  
-This is a model file for a Sandwich struct and contains testData of Sandwich objects to use in development.  It is provided in the initial state that was added to the project and will need to be edited as shown in the coding demo.
+This is a model file for a Sandwich struct and contains testData of Sandwich objects to use in development.  It is provided in the initial state that was added to the project and will need to be slighlty edited as shown in the coding demo.
 
 `Sandwiches.xcassets`  
-This is an asset catalog folder that contains both full size images of sandwiches with corresponding thumbnail images.  The original Unsplash images were renamed with sandwich names and the thumbnails use the same name with '-Thumbnail' appended to it. So the 'Caprese' main image will have a corrisponding 'Caprese-Thumbnail' image.  The names and naming convention match the `Sandwich.swift` testData name property and the derived imageName and thumbnailName properties. (Note that the -Thumbnail naming is slightly differnet than one used in the coding demo which is just to append 'Thumb' to the main image name.) 
+This is an asset catalog folder that contains both full size images of sandwiches with corresponding thumbnail images.  The original Unsplash images were renamed with sandwich names and the thumbnails use the same name with '-Thumbnail' appended to it. So the 'Caprese' main image will have a corrisponding 'Caprese-Thumbnail' image.  The names and naming convention match the `Sandwich.swift` testData name property and the derived imageName and thumbnailName properties. (Note that the -Thumbnail naming is slightly different than the one used in the coding demo which is just to append 'Thumb' to the main image name.) 
 
-Thumbnails were cropped square and sized to 55x55 pixels.
+Thumbnails were cropped square, sized to 50x50 pixels and provided in @2x and @3x high res versions.
 
 `SandwichStore.swift`  
 This is the starting root store model file that will allow editing of the sandwich test data.  It is provided in the initial state that was added to the project and will need to be edited as shown in the coding demo. 
 
-Note tha the resources for the final Localization portion of the demonstration are not provided, wasn't sure what exactly they contained.
+Note that the resources for the final Localization portion of the demonstration are not provided, wasn't sure what exactly they contained.
 
 ## Usage
 To be used as shown in the session coding demo.  These are provided as is with no guarantees, I am just learning all this myself!  Have fun! :wink:
