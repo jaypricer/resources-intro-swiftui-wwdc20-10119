@@ -17,6 +17,9 @@ Thumbnails were cropped square, sized to 50x50 pixels and provided in @2x and @3
 `SandwichStore.swift`  
 This is the starting root store model file that will allow editing of the sandwich test data.  It is provided in the initial state that was added to the project and will need to be edited as shown in the coding demo. 
 
+`Sandwich Editing.swift`  
+These are the editing functions that were added from the snippets library.
+
 Note that the resources for the final Localization portion of the demonstration are not provided, wasn't sure what exactly they contained.
 
 ## Usage
@@ -25,7 +28,7 @@ To be used as shown in the session coding demo.  These are provided as is with n
 ## Unsplash
 Kudos to [Unsplash.com](https://unsplash.com) and it's contributors for prividing the free images.  The links to the images and their contributors are:
 
-[White Cheese](https://unsplash.com/photos/mAQZ3X_8_l0)
+[Grilled White Cheese](https://unsplash.com/photos/mAQZ3X_8_l0)
 
 [Northern Soul Grilled Cheese](https://unsplash.com/photos/rFYmnobNI6o)
 
@@ -41,13 +44,11 @@ Kudos to [Unsplash.com](https://unsplash.com) and it's contributors for prividin
 
 [Egg & Ham Openface](https://unsplash.com/photos/6NjUhnS0ne0)
 
-[Avocado Crepe](https://unsplash.com/photos/dDKss4pGz9c)
-
 [Vegan Blackbean Burger](https://unsplash.com/photos/MAcTXz4-qH8)
 
-[Sweet Chilli Veggie Mince Wrap](https://unsplash.com/photos/vdB7ERiaCu4)
-
 [Caprese](https://unsplash.com/photos/Znvxeud6sDc)
+
+[Patty Melt](https://unsplash.com/photos/dwK1-w8Ihpw)
 
 
 
